@@ -27,8 +27,8 @@
 
 - Ubuntu booted successfully
 - Display rendered correctly
-  
-...
+
+---
 
 ## Issue 2: Guest Display Would Not Resize
 
@@ -55,7 +55,7 @@
 - Dynamic screen resizing became functional
 - Improved integration between host and guest operating systems
 
-...
+---
 
 ## Issue 3: Guest Additions Installation Failed
 
@@ -83,7 +83,7 @@ sudo apt install bzip2 build-essential dkms linux-headers-$(uname -r)
 
 - Guest Additions installed successfully
 
-...
+---
 
 ## Issue 4: VM Freeze During Reboot
 
@@ -110,7 +110,7 @@ sudo apt install bzip2 build-essential dkms linux-headers-$(uname -r)
 
 - System booted normally
 
-...
+---
 
 ## Issue 5: GRUB Boot Screen Appeared
 
@@ -135,7 +135,7 @@ sudo apt install bzip2 build-essential dkms linux-headers-$(uname -r)
 
 - Operating system loaded successfully
 
-...
+---
 
 ## Issue 6: systemd-journald Service Crash
 
@@ -191,7 +191,7 @@ The guest operating system was interrupted unexpectedly, resulting in journal co
 - systemd-journald restarted successfully
 - Ubuntu remained stable
 - No manual repair required
-...
+
 ---
 
 # Windows VM
@@ -220,7 +220,7 @@ The guest operating system was interrupted unexpectedly, resulting in journal co
 - Windows installation launched successfully
 - Operating system installation proceeded normally
 
-...
+---
 
 ## Issue 2: Windows Display Scaling and Resolution Problems
 
@@ -256,7 +256,7 @@ The guest operating system was interrupted unexpectedly, resulting in journal co
 - Text and interface elements rendered correctly
 - VM became comfortable to use for daily administration tasks
 
-...
+---
 
 ## Issue 3: Black Screen During Boot
 
@@ -287,7 +287,7 @@ The guest operating system was interrupted unexpectedly, resulting in journal co
 - System booted successfully
 - Behaviour documented for future reference
 
-...
+---
 
 ## Issue 4: Guest Additions Installation
 
@@ -316,7 +316,7 @@ The guest operating system was interrupted unexpectedly, resulting in journal co
 - Guest Additions installed successfully
 - Additional integration features became available
 
-...
+---
 
 ## Issue 5: VM Became Unresponsive During Guest Additions Reboot
 
