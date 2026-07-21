@@ -8,6 +8,8 @@ Set up a fully functioning Ubuntu Linux virtual machine for:
 - Networking foundations
 - Cloud basics / learning
 
+---
+
 ## Environment
 
 ### Host System
@@ -26,6 +28,8 @@ Set up a fully functioning Ubuntu Linux virtual machine for:
 - 128 MB Video Memory
 - 3D Acceleration Enabled
 
+---
+
 ## Installation Process
 
 - Installed VirtualBox
@@ -42,6 +46,8 @@ Set up a fully functioning Ubuntu Linux virtual machine for:
   - Wired connection
   - Created user account
 
+---
+
 ## Major Challenges Encountered
 
 During deployment and configuration several issues were identified and resolved:
@@ -57,6 +63,8 @@ Detailed investigations, evidence collection, root cause analysis and resolution
 
 [Troubleshooting Log](troubleshooting.md).
 
+---
+
 ## Key Learnings
 
 - Virtual machine hardware settings directly affect operating system stability.
@@ -71,13 +79,17 @@ Detailed investigations, evidence collection, root cause analysis and resolution
 - Troubleshooting is most effective when changing one variable at a time.
 - Effective troubleshooting requires gathering evidence before making configuration changes.
 
+---
+
 ## Final State
 
 - Ubuntu VM fully working
 - Screen resizing functional
 - Guest Additions installed
 - System updated
- 
+
+---
+
 ## Future Improvements
 
 - Create and test VirtualBox snapshots

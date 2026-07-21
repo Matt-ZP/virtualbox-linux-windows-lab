@@ -11,6 +11,8 @@ Set up a fully functioning Windows 11 virtual machine for:
 - Networking labs
 - Security testing and experimentation
 
+---
+
 ## Environment
 
 ### Host System
@@ -32,6 +34,8 @@ Set up a fully functioning Windows 11 virtual machine for:
 - VBoxSVGA Graphics Controller
 - 128 MB Video Memory
 
+---
+ 
 ## Installation Process
 
 - Created Windows 11 virtual machine
@@ -42,6 +46,8 @@ Set up a fully functioning Windows 11 virtual machine for:
 - Completed initial Windows setup
 - Installed Windows updates
 - Configured VirtualBox display settings
+
+---
 
 ## Major Challenges Encountered
 
@@ -58,6 +64,8 @@ Detailed investigations, evidence collection, root cause analysis and resolution
 
 [Troubleshooting Log](troubleshooting.md)
 
+---
+
 ## Key Learnings
 - Windows 11 requires additional virtual hardware features such as TPM, Secure Boot and EFI.
 - Guest operating systems can behave differently even when running on the same VirtualBox host.
@@ -65,6 +73,8 @@ Detailed investigations, evidence collection, root cause analysis and resolution
 - Screenshots and documented evidence are more reliable than memory when troubleshooting.
 - Comparing a working system against a failing system is an effective troubleshooting technique.
 - Systematic testing of one setting at a time helps isolate root causes.
+
+---
 
 ## Final State
 
@@ -78,6 +88,8 @@ Detailed investigations, evidence collection, root cause analysis and resolution
 - Dynamic display resizing functional
 - Display scaling configured for usability
 - VM ready for future PowerShell, Active Directory, Azure and Windows administration labs
+
+---
 
 ## Future Improvements
 

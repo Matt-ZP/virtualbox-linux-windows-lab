@@ -14,13 +14,17 @@ The purpose of the project was to:
 
 The lab included investigating and resolving issues involving VirtualBox graphics configuration, Guest Additions installation, and operating system stability. 
 
+---
+
 ## Environment
 
-### Host System
+## Host System
 
 - Lenovo ThinkPad P16s Gen 4
 - Windows 11 Pro
 - Oracle VirtualBox
+
+---
 
 ### Ubuntu VM
 
@@ -31,6 +35,8 @@ The lab included investigating and resolving issues involving VirtualBox graphic
 - VMSVGA Graphics Controller
 - 128 MB Video Memory
 - 3D Acceleration Enabled (required to resolve display rendering issues)
+
+---
 
 ### Windows 11 VM
 
@@ -43,6 +49,8 @@ The lab included investigating and resolving issues involving VirtualBox graphic
 - EFI Enabled
 - VBoxSVGA Graphics Controller
 - 128 MB Video Memory
+
+---
 
 ## Skills Demonstrated
 
@@ -67,6 +75,8 @@ The lab included investigating and resolving issues involving VirtualBox graphic
 - Technical documentation
 - Structured troubleshooting methodology
 
+---
+
 ## Key Learning Outcomes
 
 - Understood how hypervisors abstract hardware resources for guest operating systems.
@@ -77,6 +87,8 @@ The lab included investigating and resolving issues involving VirtualBox graphic
 - Practiced investigating Linux service failures and system logs.
 - Improved ability to isolate root causes through systematic testing.
 - Learned the importance of documenting evidence rather than relying on memory during troubleshooting.
+
+---
 
 ## Documentation
 
